@@ -9,7 +9,7 @@ temporário para ajudar a entender o fluxo.
 
 Só após concluir o raciocínio sobre os valores das lets, confira se os valores 
 que você supôs estão corretos. Você pode usar console.log para visualizar os 
-valores. 
+valores (após concluir seu raciocínio). 
 
 O principal objetivo deste exercício é checar se você entendeu o fluxo de 
 execuções da função do forEach.
